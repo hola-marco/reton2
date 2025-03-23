@@ -1,4 +1,4 @@
-from veterinaria import Veterinaria
+from veterinaria import Veterinaria # esta la importacion de la clase Veterinarias
 from cliente import Cliente
 from mascota import Mascota
 from cita import CitaFactory
